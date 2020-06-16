@@ -4,7 +4,7 @@
 \alias{rf1}
 \title{Funtion: rf1 to read a csv file and display an excerpt}
 \usage{
-rf1(inflie)
+rf1(infile)
 }
 \description{
 Funtion: rf1 to read a csv file and display an excerpt
